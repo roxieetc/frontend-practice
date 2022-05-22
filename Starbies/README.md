@@ -1,4 +1,4 @@
-#Starbucks Landing Page
+# Starbucks Landing Page
 
 Just a simple Starbucks landing page to practice with modern CSS design with background shapes and colors.
 
